@@ -1,0 +1,374 @@
+Kraakkaart
+Level:		 1
+Kracht :	 1
+Intelligentie :	 1
+Behendigheid :	 2
+Buit:		 1100.0 
+
+Kraakkaart
+Level:		 1
+Behendigheid :	 1
+Buit:		 300.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 3
+Buit:		 900.0 
+
+Kraakkaart
+Level:		 1
+Behendigheid :	 3
+Buit:		 900.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 5
+Intelligentie :	 2
+Behendigheid :	 5
+Buit:		 3700.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 5
+Behendigheid :	 3
+Buit:		 2400.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 3
+Intelligentie :	 4
+Behendigheid :	 1
+Buit:		 2300.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 3
+Intelligentie :	 3
+Behendigheid :	 5
+Buit:		 3300.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 2
+Intelligentie :	 1
+Behendigheid :	 4
+Buit:		 2100.0 
+
+Kraakkaart
+Level:		 1
+Intelligentie :	 1
+Behendigheid :	 2
+Buit:		 800.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 2
+Intelligentie :	 4
+Behendigheid :	 2
+Buit:		 2500.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 1
+Intelligentie :	 4
+Buit:		 1400.0 
+
+Kraakkaart
+Level:		 1
+Behendigheid :	 4
+Buit:		 1100.0 
+
+Kraakkaart
+Level:		 1
+Intelligentie :	 3
+Buit:		 1000.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 5
+Buit:		 1500.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 5
+Intelligentie :	 1
+Behendigheid :	 4
+Buit:		 3100.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 4
+Behendigheid :	 5
+Buit:		 2700.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 4
+Intelligentie :	 1
+Behendigheid :	 5
+Buit:		 2900.0 
+
+Kraakkaart
+Level:		 1
+Kracht :	 4
+Intelligentie :	 2
+Behendigheid :	 2
+Buit:		 2500.0 
+
+Kraakkaart
+Level:		 1
+Intelligentie :	 3
+Buit:		 900.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 9
+Intelligentie :	 9
+Buit:		 5400.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 9
+Behendigheid :	 6
+Buit:		 4500.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 7
+Behendigheid :	 8
+Buit:		 4500.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 8
+Intelligentie :	 9
+Behendigheid :	 6
+Buit:		 6900.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 8
+Intelligentie :	 9
+Behendigheid :	 10
+Buit:		 8200.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 10
+Buit:		 3100.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 10
+Intelligentie :	 6
+Buit:		 4800.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 9
+Intelligentie :	 8
+Behendigheid :	 6
+Buit:		 6800.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 9
+Intelligentie :	 7
+Behendigheid :	 6
+Buit:		 6600.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 10
+Intelligentie :	 7
+Behendigheid :	 6
+Buit:		 6800.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 8
+Intelligentie :	 10
+Behendigheid :	 6
+Buit:		 7200.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 9
+Buit:		 2800.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 10
+Intelligentie :	 6
+Behendigheid :	 6
+Buit:		 6600.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 7
+Intelligentie :	 8
+Behendigheid :	 9
+Buit:		 7100.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 6
+Behendigheid :	 7
+Buit:		 3800.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 10
+Buit:		 3000.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 8
+Behendigheid :	 7
+Buit:		 4600.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 10
+Intelligentie :	 6
+Buit:		 4800.0 
+
+Kraakkaart
+Level:		 2
+Intelligentie :	 10
+Buit:		 2900.0 
+
+Kraakkaart
+Level:		 2
+Kracht :	 9
+Behendigheid :	 10
+Buit:		 5600.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 14
+Intelligentie :	 14
+Buit:		 8400.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 12
+Behendigheid :	 11
+Buit:		 6800.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 12
+Intelligentie :	 13
+Behendigheid :	 13
+Buit:		 11400.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 13
+Intelligentie :	 14
+Behendigheid :	 14
+Buit:		 12300.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 15
+Intelligentie :	 12
+Behendigheid :	 12
+Buit:		 11600.0 
+
+Kraakkaart
+Level:		 3
+Intelligentie :	 15
+Buit:		 4500.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 13
+Intelligentie :	 12
+Behendigheid :	 12
+Buit:		 11200.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 13
+Intelligentie :	 13
+Behendigheid :	 14
+Buit:		 12000.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 11
+Intelligentie :	 14
+Buit:		 7400.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 15
+Intelligentie :	 15
+Behendigheid :	 12
+Buit:		 12600.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 14
+Intelligentie :	 13
+Behendigheid :	 14
+Buit:		 12200.0 
+
+Kraakkaart
+Level:		 3
+Intelligentie :	 14
+Behendigheid :	 13
+Buit:		 8200.0 
+
+Kraakkaart
+Level:		 3
+Intelligentie :	 14
+Behendigheid :	 12
+Buit:		 7800.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 15
+Intelligentie :	 15
+Behendigheid :	 14
+Buit:		 13200.0 
+
+Kraakkaart
+Level:		 3
+Intelligentie :	 12
+Buit:		 3500.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 14
+Buit:		 4200.0 
+
+Kraakkaart
+Level:		 3
+Intelligentie :	 15
+Behendigheid :	 11
+Buit:		 7700.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 12
+Intelligentie :	 13
+Behendigheid :	 13
+Buit:		 11400.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 11
+Intelligentie :	 13
+Behendigheid :	 15
+Buit:		 11800.0 
+
+Kraakkaart
+Level:		 3
+Kracht :	 11
+Intelligentie :	 13
+Behendigheid :	 14
+Buit:		 11400.0 
+

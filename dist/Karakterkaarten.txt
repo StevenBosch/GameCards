@@ -1,0 +1,900 @@
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 100.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 100.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 3
+Loon:		 600.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 3
+Loon:		 600.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Intelligentie :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 3
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 1
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 3
+Loon:		 600.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 3
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Behendigheid :	 3
+Loon:		 600.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 3
+Loon:		 600.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 2
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 1
+Loon:		 100.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 3
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 2
+Loon:		 400.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 1
+Loon:		 200.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 3
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 2
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 3
+Loon:		 500.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 2
+Loon:		 300.0 
+
+Karakterkaart
+Level:		 1
+Kracht :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 5
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 5
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 6
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 5
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 6
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 6
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Intelligentie :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 5
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 5
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 2
+Behendigheid :	 6
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 700.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 6
+Loon:		 1200.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 4
+Loon:		 800.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 900.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 1000.0 
+
+Karakterkaart
+Level:		 2
+Kracht :	 5
+Loon:		 1100.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 9
+Loon:		 1800.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 10
+Loon:		 2000.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 10
+Loon:		 2000.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 7
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Intelligentie :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 7
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 9
+Loon:		 1800.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 9
+Loon:		 1800.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 10
+Loon:		 2100.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 10
+Loon:		 1900.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 10
+Loon:		 1900.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 7
+Loon:		 1400.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Behendigheid :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 1900.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 2000.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 7
+Loon:		 1300.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1600.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 9
+Loon:		 1900.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 2000.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 9
+Loon:		 1800.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 9
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 2100.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 8
+Loon:		 1500.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 2000.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 9
+Loon:		 1700.0 
+
+Karakterkaart
+Level:		 3
+Kracht :	 10
+Loon:		 1900.0 
+
